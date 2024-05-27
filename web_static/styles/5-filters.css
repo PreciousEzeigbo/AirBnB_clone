@@ -24,25 +24,25 @@ section.filters button:hover{
 	opacity: 0.9;
 }
 .locations{
-	text-align: left;
 	height: 100%;
 	width: 25%;
-	border-right: solid 1px #DDDDDD;
-	margin-left: 35px;
-	float: left;
+	border-right: 1px solid #DDDDDD;
+	padding: 0 30px;
+	margin-left: auto;
 }
 .amenities{
-	text-align: left;
 	height: 100%;
 	width: 25%;
-	margin-left: 30px;
-	float: left;
+	padding: 0 30px;
+	margin-left: auto;
 }
 h3{
 	font-weight: 600;
-	margin-top: 17px;
+	margin: 10px 0px 0px 0px;
 }
 h4{
 	font-weight: 400;
 	font-size: 14px;
+	margin: 0;
 }
+
