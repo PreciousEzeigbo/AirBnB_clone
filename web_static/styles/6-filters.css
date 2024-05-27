@@ -53,11 +53,13 @@ h4{
     display: block;
     visibility: hidden;
     top: 100%;
+	list-style: none;
 
 }
 .popover li{
     padding: 0;
     margin: 0;
+	list-style: none;
 }
 .locations:hover .popover{
     display: block;
